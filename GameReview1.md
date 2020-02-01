@@ -12,7 +12,9 @@ i give this game 4 Stars
 ## Summary
 This Game is a game that Has RPG mechanics but is also board game up to 4 player co-op or single player vs computer player.
 The game is competitive but also requires player to work together make the strategy much more unique the art style is very solid even has a good amount of different animations very minium character creation but enough to tell each player apart and the Job system is very good but limited you start with a choice of 3 jobs and you can switch between anytime as well has expandable jobs that can be unlocked via mastering jobs.
-  The game also has a economy system with random event's that can cause a market to crash as well as players who decied to go evil. The battle system is basic Rock paper scissors with a 4th option for special ability that each class has 
+  The game also has an economy system with random event's that can cause a market to crash as well as players who decided to go evil. The battle system is basic Rock paper scissors with a 4th option for special ability that each class has. The game can be repetitive at times but the random events keep it changing most of the time keeping the game fresh. Sounds and music wise are pretty solid music is great but the music for the board game part does get old fast maybe if there was a few different songs on shuffle for the over world the characters do have voices and are fantastic each job has their own catch phrases that are randomized the game was written in Japanese as native so translations are easy but the make up with it when new enemies pronounce there names in voice help with the language curve.
+    
+    
 
 
 
