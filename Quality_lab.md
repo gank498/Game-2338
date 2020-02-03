@@ -1,4 +1,4 @@
---------------------------------------------Red Dead Redemption 2-------------------------------------------------------------------------
+--------------------------------------------Red Dead Redemption 2-------------------------------------------------------------------
 
 Game has great graphics and great scenery no noticable clipping of textures. Looks as the game claims to be western/midwestern colors give the vibe of the olden days which is nice most games over saturate there colors.Gameplay is solid feels as you expect from a triple A game and a big company as rock star fighting is fun horse chases and trains feel like the real deal good immersion.
 
