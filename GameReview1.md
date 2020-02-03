@@ -4,7 +4,6 @@
 
 ### Game Title
 Dokapon Kingdom https://www.amazon.com/Dokapon-Kingdom-Nintendo-Wii/dp/B001AMTH1A?th=1
-https://www.amazon.com/Dokapon-Kingdom-Nintendo-Wii/dp/B001AMTH1A?th=1
 
 ### Rating
 i give this game 4 Stars
