@@ -10,7 +10,8 @@ Gauntlet Dark Legacy
 4 out a 5
 
 ## Summary
-Gauntlet Dark Legacy is a top down dungeon crawler hack and slash style game that has a few unique characteristics compared to most this is the 6th released  title of the series but more known then the other due to it being on console most were arcade games back when arcades were very popular. But then the home console started to take over that market and they decided to  release it on all  current consols at this time including Nintendo's handheld game boy advance.
+  Gauntlet Dark Legacy is a top down dungeon crawler hack and slash style game that has a few unique characteristics compared to most this is the 6th released  title of the series but more known then the other due to it being on console most were arcade games back when arcades were very popular. But then the home console started to take over that market and they decided to  release it on all  current consols at this time including Nintendo's handheld game boy advance.
+  The game was devolped by midway games most poeple know that as Atari they renamed there brand to avoid confusing between the two atari brands after the release of san fransicso Rush 2049 in 2000 for the arcade then playStation 2 in 2001 and all other consols in 2002 
   
 
 ## Final Thoughts
