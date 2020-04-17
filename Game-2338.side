@@ -1,0 +1,133 @@
+{
+  "id": "6cc635f0-dc7c-4e6a-920e-152e687de917",
+  "version": "2.0",
+  "name": "Game-2338",
+  "url": "https://na.finalfantasyxiv.com",
+  "tests": [{
+    "id": "bbfdb64f-58f1-40f9-850d-dcd9b8a43eff",
+    "name": "ffxiv",
+    "commands": [{
+      "id": "bc9f85c5-7156-4613-831e-a32d7c65cba5",
+      "comment": "",
+      "command": "open",
+      "target": "/lodestone/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d69d800d-18c9-4dac-ae3f-36cecaaa08d2",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1900x1020",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d2d0cdc8-5ac5-490c-a1cb-87697e9d35b4",
+      "comment": "",
+      "command": "click",
+      "target": "id=txt_search",
+      "targets": [
+        ["id=txt_search", "id"],
+        ["name=q", "name"],
+        ["css=#txt_search", "css:finder"],
+        ["xpath=//input[@id='txt_search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b63fe1ce-0e95-46dc-8c4c-cc51f3a97c65",
+      "comment": "",
+      "command": "type",
+      "target": "id=txt_search",
+      "targets": [
+        ["id=txt_search", "id"],
+        ["name=q", "name"],
+        ["css=#txt_search", "css:finder"],
+        ["xpath=//input[@id='txt_search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "master gank"
+    }, {
+      "id": "4fdfb235-1418-4aa8-a51a-15ff2bebae9a",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=txt_search",
+      "targets": [
+        ["id=txt_search", "id"],
+        ["name=q", "name"],
+        ["css=#txt_search", "css:finder"],
+        ["xpath=//input[@id='txt_search']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "67e12646-4339-41f7-ba79-9a86e8445687",
+      "comment": "",
+      "command": "click",
+      "target": "css=.frame__chara__box:nth-child(2) > .frame__chara__world",
+      "targets": [
+        ["css=.frame__chara__box:nth-child(2) > .frame__chara__world", "css:finder"],
+        ["xpath=//body[@id='community']/div[3]/div[2]/div/div/div[4]/ul/li/a/div[2]/p[2]", "xpath:idRelative"],
+        ["xpath=//p[2]", "xpath:position"],
+        ["xpath=//p[contains(.,'Gilgamesh (Aether)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b9465ebf-3670-466f-bb25-09b80f636229",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Members",
+      "targets": [
+        ["linkText=Members", "linkText"],
+        ["css=.ldst__side__btn > li:nth-child(1) > .btn__menu", "css:finder"],
+        ["xpath=//a[contains(text(),'Members')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/lodestone/freecompany/9232238498621225973/member/')]", "xpath:href"],
+        ["xpath=//div[5]/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Members')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "50926599-f51a-4ddc-9299-38361ddd19d4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.frame__chara__btn",
+      "targets": [
+        ["css=.frame__chara__btn", "css:finder"],
+        ["xpath=//a[contains(@href, '/lodestone/account/select_character/')]", "xpath:href"],
+        ["xpath=//div[2]/a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9b835584-475a-4c87-b8f3-0bb48830018b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.entry:nth-child(7) .entry__name",
+      "targets": [
+        ["css=.entry:nth-child(7) .entry__name", "css:finder"],
+        ["xpath=//div[4]/a/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Master Gank')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a9c7906f-0d5a-4c69-bd46-9ce297985e4c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.entry:nth-child(7) .entry__name",
+      "targets": [
+        ["css=.entry:nth-child(7) .entry__name", "css:finder"],
+        ["xpath=//div[4]/a/div[2]/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Master Gank')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4c9ab019-6d13-4fe9-9061-731bf57b969f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["bbfdb64f-58f1-40f9-850d-dcd9b8a43eff"]
+  }],
+  "urls": ["https://na.finalfantasyxiv.com/"],
+  "plugins": []
+}
