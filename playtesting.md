@@ -1,8 +1,9 @@
 Playtest for [Game Title]
 
-
 Game Publisher
+
 Game Rating
+
 Game Title Website
 
 
